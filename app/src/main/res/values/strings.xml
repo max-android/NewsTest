@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsTest</string>
+    <string name="news">News</string>
+    <string name="hint_text">Поиск новостей</string>
+    <string name="fill_in_the_fields">Заполните поля !!!</string>
+    <string name="edit_error">Некорректные данные</string>
+    <string name="empty">Некорректные данные</string>
+    <string name="cant_load_data">Не удалось найти :(</string>
+    <string name="web_link">WEB LINK</string>
+    <string name="fails_handle_intent">Не получается обработать намерение!</string>
+</resources>
